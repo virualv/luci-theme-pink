@@ -483,7 +483,7 @@ fieldset > fieldset {
 #conns > div > div,
 #memtotal > div > div {
     height: 100% !important;
-    background-color: #5e72e4 !important;
+    background-color: #f3a4b5 !important;
 }
 
 /* fix multiple table */
@@ -1314,7 +1314,7 @@ hr {
 }
 
 .bg-primary {
-    background-color: #5e72e4!important;
+    background-color: #f3a4b5!important;
 }
 
 header, .main {
@@ -1577,7 +1577,7 @@ div > .table > .tbody > .tr:nth-of-type(2n) {
 }
 .main > .main-left > .sidenav-header > .brand {
     font-size: 1.8rem;
-    color: #5e72e4;
+    color: #f3a4b5;
     font-family: "TypoGraphica";
     text-decoration: none;
     padding-left: 2rem;
