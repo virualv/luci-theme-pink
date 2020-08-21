@@ -26,12 +26,8 @@ opkg install https://github.com/jerrykuku/luci-theme-argon/releases/download/V1.
 3. Delete unused image and file.
 
 ## Screenshots
-![](/Screenshots/pc/screenshot1.png)
-![](/Screenshots/pc/screenshot2.png)
-
-<img src="/Screenshots/phone/Screenshot_1.jpg" width="375" height="792">
-<img src="/Screenshots/phone/Screenshot_2.jpg" width="375" height="792">
-<img src="/Screenshots/phone/Screenshot_3.jpg" width="375" height="792">
+![pc1](/Screenshots/pc/pink1.png)
+![pc2](/Screenshots/pc/pink2.png)
 
 
 
