@@ -12,7 +12,7 @@ Enter in your openwrt/package/lean  or  other
 
 ```
 git clone https://github.com/virualv/luci-theme-pink.git
-make menuconfig #choose LUCI->Theme->Luci-theme-argon
+make menuconfig #choose LUCI->Theme->Luci-theme-pink
 make -j1 V=s
 ```
 ## ~~Install~~
