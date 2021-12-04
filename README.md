@@ -1,6 +1,6 @@
 # luci-theme-pink
 A new Luci theme for LEDE/OpenWRT  
-Argon is a clean HTML5 theme for LuCI. It is based on luci-theme-material and luci-theme-argon
+Pink is a pink HTML5 theme for LuCI. It is based on luci-theme-material and luci-theme-argon
 Suitable for Openwrt 18.06.4 (for test) And Lean Luci (stable)  
 
 The old version is still in another branch call old. If you need that you can checkout that branch.
@@ -17,7 +17,7 @@ make -j1 V=s
 ```
 ## ~~Install~~
 ```
-opkg install https://github.com/jerrykuku/luci-theme-argon/releases/download/V1.3/luci-theme-argon_1.3-01-20191111_all.ipk
+opkg install https://github.com/virualv/luci-theme-pink/releases/download/20200601/luci-theme-pink_0.1-01-20200601_all.ipk
 ```
 
 ## Update log 20191109
